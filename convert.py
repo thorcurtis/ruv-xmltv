@@ -16,7 +16,13 @@ CHAN_MAP = {
 }
 
 def fetch_text(url: str, timeout=30) -> str:
-    req = urllib.request.Request(url, headers={"User-Agent": "ruv-xmltv/1.0"})
+    req = urllib.request.Request(
+        url,
+        headers={
+            "User-Agent": "Mozilla/5.0 (compatible; ruv-xmltv/1.0)",
+            "Accept": "text/html,application/xml;q=0.9,*/*;q=0.8",
+        },
+    )
     with urllib.request.urlopen(req, timeout=timeout) as r:
         return r.read().decode("utf-8", errors="replace")
 
