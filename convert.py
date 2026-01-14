@@ -21,29 +21,32 @@ def fetch_text(url: str, timeout=30) -> str:
         return r.read().decode("utf-8", errors="replace")
 
 def pick_latest_xml(base_url: str) -> str:
-    """
-    Muninn directories list files. We'll pick the newest-looking .xml file.
-    This is intentionally simple and robust.
-    """
     listing = fetch_text(base_url)
-    # Try to find .xml links (common in simple autoindex pages)
-    candidates = re.findall(r'href="([^"]+\.xml)"', listing, flags=re.IGNORECASE)
-    if not candidates:
-        # fallback: sometimes links are without quotes
-        candidates = re.findall(r'href=([^ >]+\.xml)', listing, flags=re.IGNORECASE)
 
-    # Normalize
-    candidates = [c.split("?")[0] for c in candidates]
-    # Prefer filenames that contain YYYY or YYYY-MM-DD etc
-    # We'll just sort lexicographically; works fine if names are date-based.
-    candidates = sorted(set(candidates))
+    # Find ANY tokens that look like paths ending in .xml
+    # Works for HTML autoindex, S3 XML listings (<Key>...</Key>), etc.
+    raw = re.findall(r'[\w./-]+\.xml', listing, flags=re.IGNORECASE)
+
+    # Normalize and dedupe
+    candidates = sorted(set(x.split("?")[0] for x in raw))
+
+    # Filter out obvious non-targets (rare but harmless)
+    candidates = [c for c in candidates if not c.lower().endswith("xmltv.dtd")]
+
     if not candidates:
-        raise RuntimeError(f"No .xml files found at {base_url}")
+        snippet = listing[:1200].replace("\n", "\\n")
+        raise RuntimeError(
+            f"No .xml filenames found at {base_url}. Page starts with: {snippet}"
+        )
 
     latest = candidates[-1]
-    # If latest is a relative link, join it
+
+    # If it's already a full URL, return it.
     if latest.startswith("http://") or latest.startswith("https://"):
         return latest
+
+    # If it's a path like "2026/01/14.xml" or "ruv/2026-01-14.xml",
+    # join it to the base safely.
     return base_url.rstrip("/") + "/" + latest.lstrip("/")
 
 def parse_kringla_schedule(xml_text: str):
