@@ -1,0 +1,39 @@
+name: Build RÚV XMLTV
+
+on:
+  schedule:
+    - cron: "17 */6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Build epg.xml
+        run: |
+          python convert.py > epg.xml
+          # tiny index page
+          echo "<meta charset='utf-8'><a href='epg.xml'>epg.xml</a>" > index.html
+
+      - name: Publish to gh-pages
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git checkout --orphan gh-pages
+          git rm -rf .
+          mv ../epg.xml ./epg.xml || true
+          mv ../index.html ./index.html || true
+          git add epg.xml index.html
+          git commit -m "Update epg.xml"
+          git push -f origin gh-pages
