@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE tv SYSTEM "xmltv.dtd">
+<tv generator-info-name="ruv-xmltv (muninn)">
+  <channel id="ruv.is">
+    <display-name>RÚV</display-name>
+  </channel>
+  <programme start="20260129130000 +0000" stop="20260129132500 +0000" channel="ruv.is">
+    <title>Fréttir (með táknmálstúlkun)</title>
+    <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.
+Patagonia skiptir sér af lagareldisfrumvarpi</desc>
+  </programme>
+  <programme start="20260129132500 +0000" stop="20260129133348 +0000" channel="ruv.is">
+    <title>Heimaleikfimi</title>
+    <desc>Góð ráð og æfingar sem tilvalið er að gera heima. Íris Rut Garðarsdóttir sjúkraþjálfari hefur umsjón með leikfiminni.
+Styrktaræfingar sitjandi á stól. Gott að hafa prik, eða tímarit til að nota við æfingarnar.</desc>
+  </programme>
+  <programme start="20260129133500 +0000" stop="20260129135940 +0000" channel="ruv.is">
+    <title>Kastljós</title>
+    <desc>Lifandi og fjölbreyttur þáttur um fréttir, menningu og dægurmál. Helstu fréttir dagsins eru krufðar og ljósi varpað á litríkt mannlíf um land allt. Umsjón: Bergsteinn Sigurðsson, Guðrún Sóley Gestsdóttir, Óðinn Svan Óðinsson, Sigríður Halldórsdóttir, Urður Örlygsdóttir og Viktoría Hermannsdóttir.
+Íslenska karlalandsliðið í handbolta komst í undanúrslit á Evrópumótinu í handbolta í dag. Öll þjóðin fylgist grannt með frammistöðu strákana. En hvernig er andlega hliðin á þátttöku á stórmóti fyrir leikmennina og hvaða áhrif hefur árangur landsliðsins á þjóðarsálina? Rætt er við Ólaf Stefánsson fyrrverandi landsliðsfyrirliða í handbolta, Hafrúnu Kristjánsdóttur íþróttasálfræðing og Viðar Halldórsson félagsfræðing. 
+
+Friðgeir Trausti Helgason er ljósmyndari og matreiðslumaður á einum besta veitingastað Nýju Mexíkó í Bandaríkjunum. Leiðin þangað var þó grýtt og hann yfirsteig hindranir á borð við heimilisleysi og fíknisjúkdóm til að komast þangað. Guðrún Sóley og Jakob Halldórsson heimsóttu Friðgeir.</desc>
+  </programme>
+  <programme start="20260129140000 +0000" stop="20260129151000 +0000" channel="ruv.is">
+    <title>Útsvar 2015-2016</title>
+    <desc>Bein útsending frá spurningakeppni sveitarfélaga. Umsjónarmenn eru Sigmar Guðmundsson og Þóra Arnórsdóttir. 
+Spurningahöfundar: Ævar Örn Jósepsson og Auður Tinna Aðalbjarnardóttir. Dómari: Sveinn Guðmarsson.
+Stjórn útsendingar: Helgi Jóhannesson.</desc>
+  </programme>
+  <programme start="20260129151000 +0000" stop="20260129155732 +0000" channel="ruv.is">
+    <title>Söngvaskáld III</title>
+    <desc>Þættir frá 2007 þar sem íslenskir lagasmiðir flytja nokkur verka sinna í sjónvarpssal. Umsjón og dagskrárgerð: Jón Egill Bergþórsson.
+Í þessum þætti flytur Pétur Ben nokkur lög og spjallar við hlustendur. Pétur er ungur lagasmiður og gítarleikari. Hann gaf út fyrstu sólóplötu sína, Wine for My Weakness, í fyrra og þótti hún prýðilega vel heppnuð. Þá samdi hann tónlistina við myndir Ragnars Bragasonar og Vesturports, Börn og Foreldrar, hefur spilað meðal annars með Mugison og ætlar að stýra upptökum á næstu plötu Bubba Morthens.</desc>
+  </programme>
+  <programme start="20260129160000 +0000" stop="20260129162500 +0000" channel="ruv.is">
+    <title>Perlur Kvikmyndasafnsins</title>
+    <desc>Kvikmyndasafn Íslands geymir fjársjóð af kvikmyndum sem sýna íslenskan veruleika snemma á síðustu öld. Egill Helgason og Gunnar Tómas Kristófersson rýna efni og sýna efni sem jafnvel enginn hefur séð. Dagskrárgerð: Ragnheiður Thorsteinsson.
+Fjallað er um menningarviðburði og hvernig fólk freistaði þess að koma menningu og listum til skila í kvikmyndum. Auk þess eru skoðaðir ýmsir skemmtilegir safngripir í Kvikmyndasafni Íslands.</desc>
+  </programme>
+  <programme start="20260129162500 +0000" stop="20260129172331 +0000" channel="ruv.is">
+    <title>Norræn hönnun - ástarsaga</title>
+    <desc>Heimildarþáttaröð um sögu norrænnar hönnunar á síðustu hundrað árum. Í þáttunum er meðal annars rætt við hönnuði og safnara sem veita innsýn í sögurnar á bak við heimsþekkta hönnunarmuni. Í hverjum þætti er fjallað um ákveðið tímabil á árunum 1925 til 2025. Þulur: Guðrún Sóley Gestsdóttir.</desc>
+  </programme>
+  <programme start="20260129172500 +0000" stop="20260129172600 +0000" channel="ruv.is">
+    <title>KrakkaRÚV</title>
+  </programme>
+  <programme start="20260129172600 +0000" stop="20260129173100 +0000" channel="ruv.is">
+    <title>Ormagöng</title>
+    <desc>Stjörnu-Sævar svarar ýmsum vísindaspurningum frá geimgormunum okkar.</desc>
+  </programme>
+  <programme start="20260129173100 +0000" stop="20260129173849 +0000" channel="ruv.is">
+    <title>Matargat</title>
+    <desc>Þau Ylfa og Máni standa vaktina í eldhúsinu og kenna okkur hvernig á að elda og baka ýmislegt góðgæti. Dagskrárgerð: Eva Rún Þorgeirsdóttir. Umsjón: Ylfa Blöndal og Hilmar Máni Magnússon.
+Ylfa og Máni útbúa pizzaveislu.
+
+Pizzan hans Mána:
+1 tilbúið pizzadeig
+pizzasósa
+rifinn pizzaostur 
+oreganó krydd
+ananas
+pepperoni 
+skinka 
+beikon
+
+Pizzan hennar Ylfu:
+1 tilbúið pizzadeig
+pizzasósa
+buffalo mozzarella 
+ferskt oreganó
+fersk basilika</desc>
+  </programme>
+  <programme start="20260129173900 +0000" stop="20260129180200 +0000" channel="ruv.is">
+    <title>Einu sinni var... Jörðin</title>
+    <desc>Þessar þáttaraðir eru áhorfendum að góðu kunnar, enda eru þættirnir bæði afar fræðandi og skemmtilegir en að þessu sinni fræðumst við um jörðina. Þáttunum er ætlað að hvetja yngri áhorfendur til að verða ábyrgir borgarar og hjálpa þeim að skilja umhverfi sitt, svo þeir geti lagt sitt af mörkum til að vernda það.</desc>
+  </programme>
+  <programme start="20260129180200 +0000" stop="20260129180642 +0000" channel="ruv.is">
+    <title>Tilraunastund</title>
+    <desc>Ólafía og Hekla eru uppátækjasamar og forvitnar vinkonur sem stelast til að framkvæma hinar ótrúlegustu vísindalegu tilraunir í skólanum sínum, með misgóðum árangri. Leikarar: Auður Óttarsdóttir og Guðbjörg Marý Eyjólfsdóttir.
+Hekla og Ólafía eru uppátækjasamar vinkonur sem stelast til að framkvæma hinar ótrúlegustu tilraunir í skólanum sínum, með misgóðum árangri.
+Að þessu sinni ætla þær að búa til eldgos!</desc>
+  </programme>
+  <programme start="20260129180700 +0000" stop="20260129181117 +0000" channel="ruv.is">
+    <title>Íþróttastund I</title>
+    <desc>Krakkarnir í skólanum hans Bjarma kynnast fjölbreyttum íþróttagreinum ásamt seinheppnum kennara sínum, honum Agnari.
+Agnar og krakkarnir prufa sig áfram í rafíþróttum og það er enginn annar en hann Bjarmi sem tekur kennsluna að þessu sinni.  
+
+Nemendur:
+Sigurður Hilmar Brynjólfsson
+Árni Gunnar Magnússon
+Auður Óttarsdóttir
+Emilía Dröfn Davíðsdóttir
+Garðar Eyberg Arason
+
+Agnar: Páll Sigurður Sigurðsson</desc>
+  </programme>
+  <programme start="20260129181200 +0000" stop="20260129181500 +0000" channel="ruv.is">
+    <title>Eldhugar</title>
+    <desc>Stuttir þættir þar sem við kynnumst merkiskonum mannkynssögunnar. Sumar eru frægar, aðrar eru óþekktar en allar eru þær töffarar og eldhugar.</desc>
+  </programme>
+  <programme start="20260129181500 +0000" stop="20260129182500 +0000" channel="ruv.is">
+    <title>Krakkafréttir (með táknmálstúlkun)</title>
+    <desc>Helstu fréttir settar fram á einfaldan og aðgengilegan hátt. 
+Umsjón og handrit: Ari Páll Karlsson og Embla Bachmann. Ritstjórn: Ari Páll Karlsson.</desc>
+  </programme>
+  <programme start="20260129182500 +0000" stop="20260129185344 +0000" channel="ruv.is">
+    <title>Bakað í Marokkó</title>
+    <desc>Sænska bakstursdrottningin Camilla Hamid ferðast til Marokkó til að kynnast uppruna sínum og læra að baka að marokkóskum sið.</desc>
+  </programme>
+  <programme start="20260129190000 +0000" stop="20260129192700 +0000" channel="ruv.is">
+    <title>Fréttir</title>
+    <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
+  </programme>
+  <programme start="20260129193000 +0000" stop="20260129193500 +0000" channel="ruv.is">
+    <title>Íþróttir</title>
+    <desc>Íþróttafréttir.</desc>
+  </programme>
+  <programme start="20260129193500 +0000" stop="20260129194000 +0000" channel="ruv.is">
+    <title>Veður</title>
+    <desc>Veðurfréttir.</desc>
+  </programme>
+  <programme start="20260129194500 +0000" stop="20260129201000 +0000" channel="ruv.is">
+    <title>Kastljós</title>
+    <desc>Lifandi og fjölbreyttur þáttur um fréttir, menningu og dægurmál. Helstu fréttir dagsins eru krufðar og ljósi varpað á litríkt mannlíf um land allt. Umsjón: Bergsteinn Sigurðsson, Guðrún Sóley Gestsdóttir, Óðinn Svan Óðinsson, Sigríður Halldórsdóttir, Urður Örlygsdóttir og Viktoría Hermannsdóttir.</desc>
+  </programme>
+  <programme start="20260129201500 +0000" stop="20260129203100 +0000" channel="ruv.is">
+    <title>Myndasögur</title>
+    <desc>Stuttir þættir um sögurnar á bak við áhugaverðar ljósmyndir. Í hverjum þætti er fjallað um eina ljósmynd og sögu hennar – hvað var að gerast þegar myndin var tekin, hverjar voru aðstæður fólksins á ljósmyndinni og hvert er samhengið við nútímann? Leikstjóri: Þorsteinn J. Framleiðsla: Þetta líf, þetta líf.
+Á ljósmyndinni sem fjallað er um situr myndlistarkonan Róska, Ragnhildur Óskarsdóttir, á kaffihúsinu Austurbar ásamt Andrési Kolbeinssyni ljósmyndara. Borghildur, systir Rósku, tók myndina og segir frá tildrögum þess að hún var með systur sinni á Austurbar.</desc>
+  </programme>
+  <programme start="20260129203500 +0000" stop="20260129210115 +0000" channel="ruv.is">
+    <title>Ljósmyndarar á framandi slóðum</title>
+    <desc>Franskir heimildarþættir frá 2021. Fylgst er með fimm ljósmyndurum sem hafa tengst samfélögunum sem þau mynda sterkum tilfinningaböndum síðustu áratugi.</desc>
+  </programme>
+  <programme start="20260129210500 +0000" stop="20260129214754 +0000" channel="ruv.is">
+    <title>Vernd</title>
+    <desc>Breskir sakamálaþættir. Liz Nyle er lögreglufulltrúi sem vaktar fjölskyldu í vitnavernd. Þegar fjölskyldan verður fyrir skotárás á heimili sínu vakna upp ýmsar spurningar, þar á meðal hvers vegna samstarfsfélagi Liz sem hún tengist persónulegum böndum var á vettvangi glæpsins. Aðalhlutverk: Siobhan Finneran, Alec Newman og Andrew Knott. Þættirnir eru ekki við hæfi barna yngri en 16 ára.</desc>
+  </programme>
+  <programme start="20260129215000 +0000" stop="20260129223000 +0000" channel="ruv.is">
+    <title>Lögregluvaktin</title>
+    <desc>Leikin þáttaröð um líf og störf lögreglumanna í Chicago. Aðalhlutverk: Jason Beghe, Jesse Lee Soffer og Tracy Spiridakos. Þættirnir eru ekki við hæfi barna yngri en 12 ára.</desc>
+  </programme>
+  <programme start="20260129223000 +0000" stop="20260129231500 +0000" channel="ruv.is">
+    <title>Alice og Jack</title>
+    <desc>Rómantískir dramaþættir frá 2023. Fyrir sextán árum ákváðu Alice og Jack að halda hvort í sína áttina eftir að hafa varið einni nótt saman. Hins vegar er eitthvað sem dregur þau sífellt aftur hvort að öðru. Aðalhlutverk: Domhnall Gleeson, Andrea Riseborough og Sunil Patel. Þættirnir eru ekki við hæfi barna yngri en 12 ára.</desc>
+  </programme>
+  <programme start="20260129231500 +0000" stop="20260129235823 +0000" channel="ruv.is">
+    <title>Réttlæti fyrir Stephen</title>
+    <desc>Sannsögulegir breskir sakamálaþættir frá 2021. Þrettán árum eftir morðið á hinum átján ára Stephen Lawrence berjast foreldrar hans enn fyrir réttlæti honum til handa. Rannsóknarlögreglumaðurinn Clive Driscoll er sannfærður um að hægt sé að leysa málið þrátt fyrir andstöðu innan lögreglunnar. Aðalhlutverk: Sharlene Whyte, Steve Coogan og Hugh Quarshie. Leikstjóri: Alrick Riley. Þættirnir eru ekki við hæfi barna yngri en 12 ára.</desc>
+  </programme>
+  <programme start="20260130000000 +0000" stop="20260130000010 +0000" channel="ruv.is">
+  </programme>
+  <channel id="ruv2.is">
+    <display-name>RÚV 2</display-name>
+  </channel>
+  <programme start="20260129190000 +0000" stop="20260129192700 +0000" channel="ruv2.is">
+    <title>Fréttir (með táknmálstúlkun)</title>
+    <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
+  </programme>
+</tv>
