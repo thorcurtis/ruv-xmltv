@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE tv SYSTEM "xmltv.dtd">
+<tv generator-info-name="ruv-xmltv (muninn)">
+  <channel id="ruv.is">
+    <display-name>RÚV</display-name>
+  </channel>
+  <programme start="20260215070000 +0000" stop="20260215070100 +0000" channel="ruv.is">
+    <title>KrakkaRÚV</title>
+  </programme>
+  <programme start="20260215070100 +0000" stop="20260215071200 +0000" channel="ruv.is">
+    <title>Veistu hvað ég elska þig mikið?</title>
+    <desc>Teiknimyndaþættir fyrir börn byggðir á samnefndri breskri barnabók frá árinu 1994 eftir Sam McBratney, með myndskreytingum eftir Anitu Jeram. Bókin hefur verið gefin út á yfir 53 tungumálum og selst í yfir 28 milljónum eintaka.</desc>
+  </programme>
+  <programme start="20260215071200 +0000" stop="20260215072300 +0000" channel="ruv.is">
+    <title>Fílsi og tónlistin</title>
+    <desc>Fílsi leggur af stað í tónlistarævintýri á landi og á sjó!
+Piparkökurnar syngja og krakkarnir svamla um í vatninu!</desc>
+  </programme>
+  <programme start="20260215072300 +0000" stop="20260215073400 +0000" channel="ruv.is">
+    <title>Bubbi byggir</title>
+    <desc>Bubb byggir og félagar leysa vandamál og koma hlutum í verk með bros á vör. Getum við gert þetta? – Hvort við getum.</desc>
+  </programme>
+  <programme start="20260215073400 +0000" stop="20260215074100 +0000" channel="ruv.is">
+    <title>Fjölskyldufár</title>
+    <desc>Gamansamir þættir um strútapabbann Edda og áttburana hans. Eddi strútapabbi er fullkomnunarsinni og reynir að gera allt sem í hans valdi stendur til að vernda áttburana sína. Hann á fullt í fangi með það, enda eru ævintýrin hjá stórri fjölskyldu mörg og ímyndunaraflið mikið.
+Baðtími er frábær skemmtun. Eddi strútapabbi fær að kynnast því. Og lyktinni..</desc>
+  </programme>
+  <programme start="20260215074100 +0000" stop="20260215074600 +0000" channel="ruv.is">
+    <title>Rán - Rún</title>
+    <desc>Rán er ung og hress stelpa sem styttir sér stundir með ímynduðu vinkonu sinni. En hún Rún virðist raunverulegri en flestir.</desc>
+  </programme>
+  <programme start="20260215074600 +0000" stop="20260215080000 +0000" channel="ruv.is">
+    <title>Vinabær Danna tígurs</title>
+    <desc>Danni tígur er þáttaröð sem kennir börnum að túlka tilfinningar sínar. Hvenær upplifa þau sorg, reiði og hvenær eru þau þakklát. Danni notar tónlist og syngur um það sem hann upplifir sem leyfir börnum að tileinka sér það frekar. Þátturinn er ætlaður leikskólabörnum og kennir tilfinningagreind og sjálfsvirðingu sem og virðingu fyrir öðrum.</desc>
+  </programme>
+  <programme start="20260215080000 +0000" stop="20260215081050 +0000" channel="ruv.is">
+    <title>Bjössi Brunabangsi III</title>
+    <desc>Ný sería um hinn vinsæla Bjössa Brunabangsa! Í þessari seríu fylgjumst við með hetjunni Bjössa brunabangsa, sem elskar að keyra slökkviliðsbíl og slökkva elda. Á hverjum einasta degi leysir hann spennandi verkefni með hjálp frá samstarfsfólki sínu.</desc>
+  </programme>
+  <programme start="20260215081100 +0000" stop="20260215083400 +0000" channel="ruv.is">
+    <title>Kúlugúbbarnir</title>
+    <desc>Krúttlegir teiknimyndaþættir um litla hafbúa sem eru saman í bekk og elska að syngja og dansa. Kennarinn þeirra er hress gullfiskur sem kennir þeim ýmislegt um lífið og tilveruna.</desc>
+  </programme>
+  <programme start="20260215083400 +0000" stop="20260215084100 +0000" channel="ruv.is">
+    <title>Jasmín &amp; Jómbi</title>
+    <desc>Jasmín og Jómbi eru góðir vinir sem elska tónlist. Saman njóta þau tónanna sem óma um Hljómbæ.</desc>
+  </programme>
+  <programme start="20260215084100 +0000" stop="20260215085200 +0000" channel="ruv.is">
+    <title>Strumparnir II</title>
+    <desc>Þættir um óteljandi ævintýri Strumpanna og Kjartans galdrakarls sem fara hér á kostum í Strumpabæ.</desc>
+  </programme>
+  <programme start="20260215085200 +0000" stop="20260215091339 +0000" channel="ruv.is">
+    <title>Sögur úr Andabæ</title>
+    <desc>Teiknimyndaþættir um moldríku öndina Jóakim aðalönd, seinheppna frænda hans, Andrés önd, og félaga þeirra í Andabæ.</desc>
+  </programme>
+  <programme start="20260215091400 +0000" stop="20260215093537 +0000" channel="ruv.is">
+    <title>Ormhildarsaga</title>
+    <desc>Jöklarnir hafa hopað og allar þjóðsagnaverurnar úr gömlu bókunum eru komnar fram í dagsljósið. Ormhildur og Albert gamli leggja af stað í leiðangur með Guðrúnu og Brynhildi. Þau ætla að fremja galdraseið til að kveða vættirnar aftur inn í jöklana. Allt fer á hliðina þegar Albert er tekinn höndum og hópurinn hrapar í fjallinu. Á ferðalaginu uppgötvar Ormhildur að hún býr yfir leyndum hæfileika og kemst að því að töfraverurnar eru ekki allar þar sem þær eru séðar.
+Hallgrímur lærir að nota verndargrip Alberts. Brynhildur gerir við gamlan jeppa í verksmiðjunni. Kisi nær dularfullri flautu af ærslafullum púka. Ormhildur yfirbugar púkann og notar flautuna til að óska sér og hópnum í galdrahellinn. Smávegis mismæli senda þau í rangan helli. Álfur og önnur handbendi Hallgríms kljást við skeldýrin.</desc>
+  </programme>
+  <programme start="20260215093600 +0000" stop="20260215095914 +0000" channel="ruv.is">
+    <title>Stundin okkar-Tökum á loft IIII</title>
+    <desc>Uppáhaldsvika Áróru er runnin upp og hún ætlar bæði að baka bollur og búa til búning. Hún kynnir Loft fyrir bollu-, sprengi- og öskudegi og fær aðstoð við undirbúninginn.</desc>
+  </programme>
+  <programme start="20260215100000 +0000" stop="20260215100458 +0000" channel="ruv.is">
+    <title>Stúdíó RÚV - brot</title>
+    <desc>Tónlistarmenn koma í Stúdíó RÚV og færa landsmönnum tónlist heim í stofu.  Stjórn upptöku: Guðmundur Atli Pétursson. Þættir frá 2024.</desc>
+  </programme>
+  <programme start="20260215100500 +0000" stop="20260215105000 +0000" channel="ruv.is">
+    <title>ÓL 2026: Skíðaskotfimi</title>
+    <desc>Keppni í skíðaskotfimi á Vetrarólympíuleikunum í Mílanó og Cortina á Ítalíu.</desc>
+  </programme>
+  <programme start="20260215105500 +0000" stop="20260215122000 +0000" channel="ruv.is">
+    <title>ÓL 2026: Skíðaganga</title>
+    <desc>Keppni í skíðagöngu á Vetrarólympíuleikunum í Mílanó og Cortina á Ítalíu.</desc>
+  </programme>
+  <programme start="20260215122000 +0000" stop="20260215141000 +0000" channel="ruv.is">
+    <title>ÓL 2026: Alpagreinar</title>
+    <desc>Keppni í alpagreinum á Vetrarólympíuleikunum í Mílanó og Cortina á Ítalíu.</desc>
+  </programme>
+  <programme start="20260215141000 +0000" stop="20260215152000 +0000" channel="ruv.is">
+    <title>ÓL 2026: Snjóbretti</title>
+    <desc>Keppni á snjóbrettum á Vetrarólympíuleikunum í Mílanó og Cortina á Ítalíu.</desc>
+  </programme>
+  <programme start="20260215153000 +0000" stop="20260215180000 +0000" channel="ruv.is">
+    <title>ÓL 2026: Íshokkí</title>
+    <desc>Keppni í íshokkí á Vetrarólympíuleikunum í Mílanó og Cortina á Ítalíu.</desc>
+  </programme>
+  <programme start="20260215180000 +0000" stop="20260215180450 +0000" channel="ruv.is">
+    <title>Landakort</title>
+    <desc>Valin myndskeið úr Landanum þar sem áhugaverðir staðir eru skoðaðir og merkilegir Íslendingar heimsóttir. Ritstjórn: Gísli Einarsson.</desc>
+  </programme>
+  <programme start="20260215180500 +0000" stop="20260215180600 +0000" channel="ruv.is">
+    <title>KrakkaRÚV</title>
+  </programme>
+  <programme start="20260215180600 +0000" stop="20260215182800 +0000" channel="ruv.is">
+    <title>Stundin okkar-Tökum á loft IIII</title>
+    <desc>Uppáhaldsvika Áróru er runnin upp og hún ætlar bæði að baka bollur og búa til búning. Hún kynnir Loft fyrir bollu-, sprengi- og öskudegi og fær aðstoð við undirbúninginn.</desc>
+  </programme>
+  <programme start="20260215182800 +0000" stop="20260215183700 +0000" channel="ruv.is">
+    <title>Björgunarhundurinn Bessí</title>
+    <desc>Anne Dorothea á mjög sérstakan besta vin, björgunarhundinn Bessa!</desc>
+  </programme>
+  <programme start="20260215183700 +0000" stop="20260215184404 +0000" channel="ruv.is">
+    <title>Blæja III</title>
+    <desc>Þriðja þáttaröðin um hina vinsælu Blæju og Hælbein fjölskylduna. Daglegt líf fjölskyldunnar gengur sinn vanagang, en hins vegar er enginn dagur eins þegar Blæja og Bára eiga í hlut.</desc>
+  </programme>
+  <programme start="20260215184500 +0000" stop="20260215184904 +0000" channel="ruv.is">
+    <title>Matargat</title>
+    <desc>Þau Ylfa og Máni standa vaktina í eldhúsinu og kenna okkur hvernig á að elda og baka ýmislegt góðgæti. Dagskrárgerð: Eva Rún Þorgeirsdóttir. Umsjón: Ylfa Blöndal og Hilmar Máni Magnússon.
+Ylfa og Máni búa til tvær tegundir af boost, sem er tilvalið eftir skóla, annað með skyri og hitt með trönuberjasafa. 
+Hér eru uppskriftirnar: 
+Boost með skyri: 
+120g Frosin jarðaber 
+120g Frosin bláber 
+400g Hreint skyr 
+Klakar 
+Boost með trönuberjasafa: 
+120g Frosin jarðaber 
+120g Frosin bláber 
+1 banani 
+Trönuberjasafi 
+Vatn 
+Aðferð: 
+Setjið allt saman í blandara og þeytið vel.</desc>
+  </programme>
+  <programme start="20260215185000 +0000" stop="20260215185430 +0000" channel="ruv.is">
+    <title>Lag dagsins</title>
+    <desc>Íslensk tónlistarmyndbönd.
+Lag: Strange Days
+Flytjandi: Pale Moon
+Höfundar: Árni Guðjónsson og Natalia Sushchenko</desc>
+  </programme>
+  <programme start="20260215190000 +0000" stop="20260215192000 +0000" channel="ruv.is">
+    <title>Fréttir</title>
+    <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
+  </programme>
+  <programme start="20260215192500 +0000" stop="20260215193500 +0000" channel="ruv.is">
+    <title>Íþróttir</title>
+    <desc>Íþróttafréttir.</desc>
+  </programme>
+  <programme start="20260215193500 +0000" stop="20260215194000 +0000" channel="ruv.is">
+    <title>Veður</title>
+    <desc>Veðurfréttir.</desc>
+  </programme>
+  <programme start="20260215194500 +0000" stop="20260215201215 +0000" channel="ruv.is">
+    <title>Landinn</title>
+    <desc>Þáttur um mannlífið í landinu. Landinn leitar uppi skemmtilegt fólk í bæjum og sveitum og skoðar áhugaverða staði landshorna á milli. Ritstjóri er Gísli Einarsson. Aðrir umsjónarmenn: Edda Sif Pálsdóttir, Þórdís Claessen, Hafsteinn Vilhelmsson, Amanda Guðrún Bjarnadóttir og Andri Freyr Viðarsson. Dagskrárgerð: Jóhannes Jónsson, Hjalti Stefánsson, Benedikt Nikulás Anes Ketilsson, Björgvin Kolbeinsson og Adelina Antal.</desc>
+  </programme>
+  <programme start="20260215201500 +0000" stop="20260215211212 +0000" channel="ruv.is">
+    <title>Jörðin</title>
+    <desc>Þriðja þáttaröð þessara stórbrotnu náttúrulífsþátta með David Attenborough um Jörðina, náttúru hennar og dýralíf á öllum árstíðum. Þættirnir eru talsettir á íslensku en sýndir með ensku tali á RÚV 2.</desc>
+  </programme>
+  <programme start="20260215211500 +0000" stop="20260215221006 +0000" channel="ruv.is">
+    <title>Greifinn af Monte Cristo</title>
+    <desc>Leikin þáttaröð frá 2024 byggð á samnefndri skáldsögu eftir Alexandre Dumas. Sjómaðurinn Edmond Dantè er svikinn af þremur mönnum og ranglega fangelsaður á eyju við strendur Marseille. Mörgum árum síðar tekst honum að flýja fangelsið og leitar uppi fjársjóð sem samfangi hans sagði honum frá. Hann hefur nýtt líf undir dulnefninu greifinn af Monte Cristo og er staðráðinn í að ná fram hefndum á mönnunum sem sviku hann. Aðalhlutverk: Sam Claflin, Mikkel Boe Følsgaard og Ana Girardot. Þættirnir eru ekki við hæfi barna yngri en 12 ára.</desc>
+  </programme>
+  <programme start="20260215221500 +0000" stop="20260216000453 +0000" channel="ruv.is">
+    <title>Annar þáttur</title>
+    <desc>Sænsk kvikmynd frá 2023. Evu finnst hún hafa lítinn tíma á höndum sér. Þegar hún vingast við stórleikarann Harold Skog áttar hún sig á því að lífið er alls ekki búið, heldur rétt að byrja. Aðalhlutverk: Lena Olin, Rolf Lassgård og Lars Väringer.</desc>
+  </programme>
+  <programme start="20260216000500 +0000" stop="20260216000510 +0000" channel="ruv.is">
+  </programme>
+  <channel id="ruv2.is">
+    <display-name>RÚV 2</display-name>
+  </channel>
+  <programme start="20260215085000 +0000" stop="20260215103000 +0000" channel="ruv2.is">
+    <title>ÓL 2026: Alpagreinar</title>
+    <desc>Keppni í alpagreinum á Vetrarólympíuleikunum í Mílanó og Cortina á Ítalíu.</desc>
+  </programme>
+  <programme start="20260215103000 +0000" stop="20260215120000 +0000" channel="ruv2.is">
+    <title>ÓL 2026: Skíðafimi</title>
+    <desc>Keppni í skíðafimi á Vetrarólympíuleikunum í Mílanó og Cortina á Ítalíu.</desc>
+  </programme>
+  <programme start="20260215122500 +0000" stop="20260215133500 +0000" channel="ruv2.is">
+    <title>ÓL 2026: Skíðastökk</title>
+    <desc>Keppni í skíðastökki á Vetrarólympíuleikunum í Mílanó og Cortina á Ítalíu.</desc>
+  </programme>
+  <programme start="20260215133500 +0000" stop="20260215142000 +0000" channel="ruv2.is">
+    <title>ÓL 2026: Skíðaskotfimi</title>
+    <desc>Keppni í skíðaskotfimi á Vetrarólympíuleikunum í Mílanó og Cortina á Ítalíu.</desc>
+  </programme>
+  <programme start="20260215142000 +0000" stop="20260215145707 +0000" channel="ruv2.is">
+    <title>ÓL 2026: Íshokkí</title>
+    <desc>Keppni í íshokkí á Vetrarólympíuleikunum í Mílanó og Cortina á Ítalíu.</desc>
+  </programme>
+  <programme start="20260215161000 +0000" stop="20260215165500 +0000" channel="ruv2.is">
+    <title>ÓL 2026: Skautahlaup</title>
+    <desc>Keppni í skautahlaupi á Vetrarólympíuleikunum í Mílanó og Cortina á Ítalíu.</desc>
+  </programme>
+  <programme start="20260215171500 +0000" stop="20260215185000 +0000" channel="ruv2.is">
+    <title>ÓL 2026: Magasleði</title>
+    <desc>Keppni á magasleða á Vetrarólympíuleikunum í Mílanó og Cortina á Ítalíu.</desc>
+  </programme>
+  <programme start="20260215185000 +0000" stop="20260215215500 +0000" channel="ruv2.is">
+    <title>ÓL 2026: Listskautar</title>
+    <desc>Keppni á listskautum á Vetrarólympíuleikunum í Mílanó og Cortina á Ítalíu.</desc>
+  </programme>
+  <programme start="20260215215500 +0000" stop="20260215221500 +0000" channel="ruv2.is">
+    <title>Fréttir (með táknmálstúlkun)</title>
+    <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
+  </programme>
+  <programme start="20260215221500 +0000" stop="20260215231213 +0000" channel="ruv2.is">
+    <title>Jörðin - með enskum þul</title>
+    <desc>Þriðja þáttaröð þessara stórbrotnu náttúrulífsþátta með David Attenborough um Jörðina, náttúru hennar og dýralíf á öllum árstíðum.</desc>
+  </programme>
+</tv>
