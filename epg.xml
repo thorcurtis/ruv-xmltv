@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE tv SYSTEM "xmltv.dtd">
+<tv generator-info-name="ruv-xmltv (muninn)">
+  <channel id="ruv.is">
+    <display-name>RÚV</display-name>
+  </channel>
+  <programme start="20260221070000 +0000" stop="20260221070100 +0000" channel="ruv.is">
+    <title>KrakkaRÚV</title>
+  </programme>
+  <programme start="20260221070100 +0000" stop="20260221070734 +0000" channel="ruv.is">
+    <title>Bursti og leikskólinn</title>
+    <desc>Bursti heimsækir leikskólann! Allt er nýtt og spennandi og margt sem Bursti þarf að læra í hinum stóra leikskólaheimi.</desc>
+  </programme>
+  <programme start="20260221070800 +0000" stop="20260221071457 +0000" channel="ruv.is">
+    <title>Ferðalög Trymbils</title>
+    <desc>Trymbill fer á flakk með systkinunum Hildi og Theó, sem eiga það þó til að gleyma honum. Þá hefjast sko ævintýri Trymbils!</desc>
+  </programme>
+  <programme start="20260221071500 +0000" stop="20260221072600 +0000" channel="ruv.is">
+    <title>Veistu hvað ég elska þig mikið?</title>
+    <desc>Teiknimyndaþættir fyrir börn byggðir á samnefndri breskri barnabók frá árinu 1994 eftir Sam McBratney, með myndskreytingum eftir Anitu Jeram. Bókin hefur verið gefin út á yfir 53 tungumálum og selst í yfir 28 milljónum eintaka.</desc>
+  </programme>
+  <programme start="20260221072600 +0000" stop="20260221073200 +0000" channel="ruv.is">
+    <title>Fílsi og vélarnar I</title>
+    <desc>Fjólublái fíllinn Fílsi lærir ýmislegt um allskonar mismunandi vélar.</desc>
+  </programme>
+  <programme start="20260221073200 +0000" stop="20260221073900 +0000" channel="ruv.is">
+    <title>Litla Ló</title>
+    <desc>Litla Ló býr með Kisu, bróður sínum Húgó, foreldrum sínum - og líka álfinum Búa sem býr í holu í veggnum. Búi er algjör töframaður og á hverjum degi býður hann Litlu Ló og Kisu í nýtt ævintýri úti í náttúrunni.</desc>
+  </programme>
+  <programme start="20260221073900 +0000" stop="20260221075100 +0000" channel="ruv.is">
+    <title>Begga og Fress</title>
+    <desc>Vinirnir Begga og Fress leika sér að tölum og leysa saman ýmsar þrautir og gátur.</desc>
+  </programme>
+  <programme start="20260221075100 +0000" stop="20260221075800 +0000" channel="ruv.is">
+    <title>Leynilundur</title>
+    <desc>Flóra er níu ára og finnur gat í limgerðinu úti í garði. Hún skríður í gegn og er skyndilega stödd í skóginum endalausa – galdraheimi þar sem allt getur gerst. Þar ráfa um skrítnar og stórkostlegar verur. Þær lenda í ýmiss konar vandræðum og enginn getur hjálpað þeim – nema kannski Flóra sjálf?</desc>
+  </programme>
+  <programme start="20260221075800 +0000" stop="20260221081023 +0000" channel="ruv.is">
+    <title>Vinabær Danna tígurs</title>
+    <desc>Danni tígur er þáttaröð sem kennir börnum að túlka tilfinningar sínar. Hvenær upplifa þau sorg, reiði og hvenær eru þau þakklát. Danni notar tónlist og syngur um það sem hann upplifir sem leyfir börnum að tileinka sér það frekar. Þátturinn er ætlaður leikskólabörnum og kennir tilfinningagreind og sjálfsvirðingu sem og virðingu fyrir öðrum.</desc>
+  </programme>
+  <programme start="20260221081100 +0000" stop="20260221081600 +0000" channel="ruv.is">
+    <title>Tölukubbar</title>
+    <desc>Lærið um tölustafina með Tölukubbunum!</desc>
+  </programme>
+  <programme start="20260221081600 +0000" stop="20260221082300 +0000" channel="ruv.is">
+    <title>Lundaklettur</title>
+    <desc>Litlu lundasystkinin Úna og Bubbi búa á eyjunni Lundakletti. Þau lenda sífellt í nýjum ævintýrum með vinum sínum.</desc>
+  </programme>
+  <programme start="20260221082300 +0000" stop="20260221084600 +0000" channel="ruv.is">
+    <title>Úmísúmí</title>
+    <desc>Stærðfræðiofurhetjurnar Millý, Geó og Bói hjálpa krökkum að læra tölur, form og mynstur.</desc>
+  </programme>
+  <programme start="20260221084600 +0000" stop="20260221085700 +0000" channel="ruv.is">
+    <title>Jójó &amp; amma</title>
+    <desc>Jojo er alveg að verða fimm ára. Hún er svo heppin að búa í nágrenni við ömmu sína. Saman bralla þær ýmislegt</desc>
+  </programme>
+  <programme start="20260221085700 +0000" stop="20260221090438 +0000" channel="ruv.is">
+    <title>Sögur snjómannsins</title>
+    <desc>Huggulegir þættir þar sem snjómaðurinn les úr sínum uppáhaldsbókum fyrir litlu mýsnar í bókabúðinni.</desc>
+  </programme>
+  <programme start="20260221090500 +0000" stop="20260221091640 +0000" channel="ruv.is">
+    <title>Töfratú</title>
+    <desc>Töfratú er fantasíuland dásamlegra álfa og hafmeyja þar sem raunveruleg viðfangsefni á borð við systkinaerjur, sanngirni og sjálfstraust eru könnuð nánar.</desc>
+  </programme>
+  <programme start="20260221091700 +0000" stop="20260221093934 +0000" channel="ruv.is">
+    <title>Múmínálfarnir II</title>
+    <desc>Ástsælu Múmínálfar Tove Jansson snúa aftur og lenda í alls kyns skemmtilegum ævintýrum.</desc>
+  </programme>
+  <programme start="20260221094000 +0000" stop="20260221094501 +0000" channel="ruv.is">
+    <title>Landakort</title>
+    <desc>Valin myndskeið úr Landanum þar sem áhugaverðir staðir eru skoðaðir og merkilegir Íslendingar heimsóttir. Ritstjórn: Gísli Einarsson.</desc>
+  </programme>
+  <programme start="20260221095000 +0000" stop="20260221121000 +0000" channel="ruv.is">
+    <title>ÓL 2026: Skíðaganga</title>
+    <desc>Keppni í skíðagöngu á Vetrarólympíuleikunum í Mílanó og Cortina á Ítalíu.</desc>
+  </programme>
+  <programme start="20260221121000 +0000" stop="20260221130207 +0000" channel="ruv.is">
+    <title>ÓL 2026: Skíðaskotfimi</title>
+    <desc>Keppni í skíðaskotfimi á Vetrarólympíuleikunum í Mílanó og Cortina á Ítalíu.</desc>
+  </programme>
+  <programme start="20260221130500 +0000" stop="20260221135500 +0000" channel="ruv.is">
+    <title>ÓL 2026: Skíðaskotfimi</title>
+    <desc>Keppni í skíðaskotfimi á Vetrarólympíuleikunum í Mílanó og Cortina á Ítalíu.</desc>
+  </programme>
+  <programme start="20260221140500 +0000" stop="20260221144325 +0000" channel="ruv.is">
+    <title>ÓL 2026: Fjallaskíði</title>
+    <desc>Keppni á fjallaskíðum á Vetrarólympíuleikunum í Mílanó og Cortina á Ítalíu.</desc>
+  </programme>
+  <programme start="20260221145500 +0000" stop="20260221164500 +0000" channel="ruv.is">
+    <title>ÓL 2026: Skautahlaup</title>
+    <desc>Keppni í skautahlaupi á Vetrarólympíuleikunum í Mílanó og Cortina á Ítalíu.</desc>
+  </programme>
+  <programme start="20260221171000 +0000" stop="20260221173318 +0000" channel="ruv.is">
+    <title>Meistarinn</title>
+    <desc>Hvernig hugsa helstu listamenn og hugsuðir Svíþjóðar og hvaðan sækja þau sér innblástur og hvatningu? Í þessum þáttum er rætt við sænska meistara um sköpunarferlið, ákvarðanatöku og það hvernig mistök geta leitt til nýrra sigra.</desc>
+  </programme>
+  <programme start="20260221173500 +0000" stop="20260221173600 +0000" channel="ruv.is">
+    <title>KrakkaRÚV</title>
+  </programme>
+  <programme start="20260221173600 +0000" stop="20260221175600 +0000" channel="ruv.is">
+    <title>Ormhildarsaga</title>
+    <desc>Jöklarnir hafa hopað og allar þjóðsagnaverurnar úr gömlu bókunum eru komnar fram í dagsljósið. Ormhildur og Albert gamli leggja af stað í leiðangur með Guðrúnu og Brynhildi. Þau ætla að fremja galdraseið til að kveða vættirnar aftur inn í jöklana. Allt fer á hliðina þegar Albert er tekinn höndum og hópurinn hrapar í fjallinu. Á ferðalaginu uppgötvar Ormhildur að hún býr yfir leyndum hæfileika og kemst að því að töfraverurnar eru ekki allar þar sem þær eru séðar.
+Hópurinn fær skjól hjá Hildi heilara. Ormhildur fer að leita jurta og lendir þá næstum í klóm Rauðs. Alberti tekst að flýja úr hafarnarhreiðrinu. Þrjár ástsjúkar skessur handsama hann, þvinga hann til að vinna og krefjast þess að hann giftist þeirri elstu. Álfur fellur í hendur Rauðs.</desc>
+  </programme>
+  <programme start="20260221175600 +0000" stop="20260221180100 +0000" channel="ruv.is">
+    <title>Eplabær</title>
+    <desc>Velkomin til Eplabæjar. Eplabær er svo daufur og óspennandi að hann hefur verið tekinn út af landakortum. En ef betur er að gáð fela jafnvel mestu leiðindin í sér ævintýri. Stundum getur ómerkilegasti staðurinn orðið vettvangur stórkostlegra uppátækja – ef ímyndunaraflið fær að ráða.</desc>
+  </programme>
+  <programme start="20260221180100 +0000" stop="20260221181200 +0000" channel="ruv.is">
+    <title>Skrímslasjúkir snillingar</title>
+    <desc>Þegar afi ykkar er búin að þjálfa ykkur sem skrímslaveiðimenn, þá er ekkert annað í stöðunni en að veiða öll skrímslin! Það er þó eitt vandamál, krakkarnir elska skrímslin og vilja helst bara bjarga þeim. Það geta þau gert á meðan afi blundar, eða hvað?</desc>
+  </programme>
+  <programme start="20260221181200 +0000" stop="20260221182330 +0000" channel="ruv.is">
+    <title>Strumparnir II</title>
+    <desc>Þættir um óteljandi ævintýri Strumpanna og Kjartans galdrakarls sem fara hér á kostum í Strumpabæ.</desc>
+  </programme>
+  <programme start="20260221182400 +0000" stop="20260221182500 +0000" channel="ruv.is">
+    <title>Hrúturinn Hreinn - Sögur úr Flóamýri</title>
+    <desc>Stuttir þættir þar sem Hrúturinn Hreinn og vinir hans fara á kostum.</desc>
+  </programme>
+  <programme start="20260221182500 +0000" stop="20260221184931 +0000" channel="ruv.is">
+    <title>Hnappheldan</title>
+    <desc>Þorir þú að ræða allt við maka þinn? Í þessum norsku þáttum spyrja hugrökk pör hvort annað óvæntra spurninga.</desc>
+  </programme>
+  <programme start="20260221185200 +0000" stop="20260221185520 +0000" channel="ruv.is">
+    <title>Lottó</title>
+    <desc>Lottó-útdráttur vikunnar.</desc>
+  </programme>
+  <programme start="20260221190000 +0000" stop="20260221192000 +0000" channel="ruv.is">
+    <title>Fréttir</title>
+    <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.
+Trump hækkar tolla</desc>
+  </programme>
+  <programme start="20260221192500 +0000" stop="20260221193500 +0000" channel="ruv.is">
+    <title>Íþróttir</title>
+    <desc>Íþróttafréttir.</desc>
+  </programme>
+  <programme start="20260221193500 +0000" stop="20260221194004 +0000" channel="ruv.is">
+    <title>Veður</title>
+    <desc>Veðurfréttir.</desc>
+  </programme>
+  <programme start="20260221194500 +0000" stop="20260221203539 +0000" channel="ruv.is">
+    <title>Stjörnubíó</title>
+    <desc>Ný íslensk heimildarþáttaröð í umsjón Ara Eldjárns um íslenskar kvikmyndir. Í hverjum þætti er ein sígild kvikmynd tekin fyrir. Skyggnst er á bak við tjöldin og áður óséð myndefni birt. Rætt er við leikstjóra, handritshöfunda, framleiðendur, leikara, búninga- og leikmyndahönnuði, kvikmyndastjóra, klippara og fleira fagfólk, sem ljóstra upp ýmsum leyndarmálum frá gerð myndanna.
+Fjallað er um gerð sígildu gamanmyndarinnar Nýtt líf frá 1983. Meðal þeirra sem fram koma eru Eggert Þorleifsson, Karl Ágúst Úlfsson, Elva Ósk Ólafsdóttir, Þráinn Bertelsson, Ari Kristinsson og framleiðandinn Jón Hermannsson. Þátturinn er tileinkaður minningu Jóns.</desc>
+  </programme>
+  <programme start="20260221204000 +0000" stop="20260221220725 +0000" channel="ruv.is">
+    <title>Nýtt líf</title>
+    <desc>Íslensk gamanmynd frá 1983 í leikstjórn Þráins Bertelssonar. Daníel og Þór sigla undir fölsku flaggi og ráða sig í vinnu hjá stærsta fiskvinnslufyrirtækinu í Eyjum. Þar kynnast þeir Víglundi verkstjóra, bónusvíkingnum Axel, ungfrú Snæfells- og Hnappadalssýslu, Maríu Lundadóttur og skipstjóranum hjátrúarfulla auk fjölmargra annarra ógleymanlegra persóna. Aðalhlutverk: Eggert Þorleifsson, Karl Ágúst Úlfsson og Runólfur Dagbjartsson.</desc>
+  </programme>
+  <programme start="20260221222000 +0000" stop="20260222004500 +0000" channel="ruv.is">
+    <title>ÓL 2026: Listskautar</title>
+    <desc>Keppni á listskautum á Vetrarólympíuleikunum í Mílanó og Cortina á Ítalíu.</desc>
+  </programme>
+  <programme start="20260222004500 +0000" stop="20260222005500 +0000" channel="ruv.is">
+    <title>Háskalegur lokakafli</title>
+    <desc>Breskir spennuþættir byggðir á samnefndri skáldsögu Anthonys Horowitz. Ritstjórinn Susan Ryeland fær í hendurnar handrit að nýjustu skáldsögu glæpasagnahöfundarins Alans Conway. Þegar hún kemst að því að lokakaflann vantar í handritið hefur hún leit að týndu blaðsíðunum og flækist í leiðinni óvænt í vef lyga og leyndarmála. Aðalhlutverk: Lesley Manville, Conleth Hill og Tim McMullan.</desc>
+  </programme>
+  <programme start="20260222005500 +0000" stop="20260222005510 +0000" channel="ruv.is">
+  </programme>
+  <channel id="ruv2.is">
+    <display-name>RÚV 2</display-name>
+  </channel>
+  <programme start="20260221094000 +0000" stop="20260221111000 +0000" channel="ruv2.is">
+    <title>ÓL 2026: Skíðafimi</title>
+    <desc>Keppni í skíðafimi á Vetrarólympíuleikunum í Mílanó og Cortina á Ítalíu.</desc>
+  </programme>
+  <programme start="20260221111000 +0000" stop="20260221122500 +0000" channel="ruv2.is">
+    <title>ÓL 2026: Skíðafimi</title>
+    <desc>Keppni í skíðafimi á Vetrarólympíuleikunum í Mílanó og Cortina á Ítalíu.</desc>
+  </programme>
+  <programme start="20260221180000 +0000" stop="20260221203000 +0000" channel="ruv2.is">
+    <title>ÓL 2026: Krulla</title>
+    <desc>Keppni í krullu á Vetrarólympíuleikunum í Mílanó og Cortina á Ítalíu.</desc>
+  </programme>
+  <programme start="20260221203000 +0000" stop="20260221204959 +0000" channel="ruv2.is">
+    <title>Fréttir (með táknmálstúlkun)</title>
+    <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.
+Trump hækkar tolla</desc>
+  </programme>
+</tv>
